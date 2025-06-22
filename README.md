@@ -71,11 +71,10 @@ Deploy the app.py file directly
 
 **Reliance, TCS, Infosys, HDFC Bank, ICICI Bank, etc.**
 
-And all major Bank Nifty constituents:
+### And all major Bank Nifty constituents:
 
 **SBI, Axis Bank, Kotak Mahindra Bank, HDFC Bank, etc.**
 
 # 👤 Author
-Rohit Shere
+### Rohit Shere
 **MSc Data Science | Fergusson College (SPPU)**
-**🔗 LinkedIn | 🖥️ GitHub**
