@@ -21,7 +21,7 @@ A dynamic, interactive Streamlit web application for visualizing and analyzing t
 
 ## 📸 Demo Preview
 
-![App Preview](assets/app_screenshot.png) <!-- Optional: Replace with your screenshot path -->
+![App Preview](./IMG/previwe.png) <!-- Optional: Replace with your screenshot path -->
 
 ---
 
