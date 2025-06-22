@@ -54,3 +54,29 @@ This project demonstrates:
 ```bash
 git clone https://github.com/yourusername/nifty-volatility-analyzer.git
 cd nifty-volatility-analyzer
+```
+
+
+# 🌐 Deployment (Free on Streamlit Cloud)
+Push the project to a GitHub repo
+
+Visit https://streamlit.io/cloud
+
+Connect your GitHub
+
+Deploy the app.py file directly
+
+# 📈 Example Stocks Covered
+Includes all Nifty 50 stocks:
+
+**Reliance, TCS, Infosys, HDFC Bank, ICICI Bank, etc.**
+
+And all major Bank Nifty constituents:
+
+**SBI, Axis Bank, Kotak Mahindra Bank, HDFC Bank, etc.**
+
+
+# 👤 Author
+Rohit Shere
+MSc Data Science | Fergusson College (SPPU)
+🔗 LinkedIn | 🖥️ GitHub
