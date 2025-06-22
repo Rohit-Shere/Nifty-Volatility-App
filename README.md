@@ -75,7 +75,6 @@ And all major Bank Nifty constituents:
 
 **SBI, Axis Bank, Kotak Mahindra Bank, HDFC Bank, etc.**
 
-
 # 👤 Author
 Rohit Shere
 MSc Data Science | Fergusson College (SPPU)
